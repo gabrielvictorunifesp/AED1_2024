@@ -5,7 +5,7 @@ sem limites de amigos na sua rede. Como Luiggy é seu amigo, ele pediu que você
 Para isso, Luiggy teve a seguinte ideia:
 
 O programa deverá ler a lista atual de amigos de Luiggy;
-O programa deverá ler a nova lista de amigos de Luiggy;
+O programa degitverá ler a nova lista de amigos de Luiggy;
 O programa deverá ler o nome do amigo atual que receberá a nova lista como indicação de amigos.
 
 Entrada
